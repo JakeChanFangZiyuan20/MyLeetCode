@@ -1,7 +1,8 @@
 # LeetCode-203-Remove Linked List Elements-移除链表元素
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/203.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/203.png)
+
 
 
 ## 综述：

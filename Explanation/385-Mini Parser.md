@@ -1,7 +1,8 @@
 # LeetCode-385-Mini Parser-迷你语法分析器
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/385.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/385.png)
+
 
 
 

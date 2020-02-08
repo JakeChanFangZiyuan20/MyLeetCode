@@ -1,7 +1,8 @@
 # LeetCode-641-Design Circular Deque-设计循环双端队列
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/641.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/641.png)
+
 
 
 ## 综述：  

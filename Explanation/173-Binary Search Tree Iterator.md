@@ -1,7 +1,8 @@
 # LeetCode-173-Binary Search Tree Iterator-二叉搜索树迭代器
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/173.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/173.png)
+
 
 
 ## 综述：  

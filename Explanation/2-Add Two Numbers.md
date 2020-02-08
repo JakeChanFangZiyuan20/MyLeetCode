@@ -1,7 +1,8 @@
 # LeetCode-2-Add Two Numbers-两数相加
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/2.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/2.png)
+
 
 
 ## 综述：  

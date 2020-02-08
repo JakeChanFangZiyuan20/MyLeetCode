@@ -1,7 +1,8 @@
 # LeetCode-19-Remove Nth Node From End of List-删除链表的倒数第N节点
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/19.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/19.png)
+
 
 
 ## 综述：

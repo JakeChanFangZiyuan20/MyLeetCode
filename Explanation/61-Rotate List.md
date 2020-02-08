@@ -1,7 +1,8 @@
 # LeetCode-61-Rotate List-旋转链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/61.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/61.png)
+
 
 
 ## 综述：

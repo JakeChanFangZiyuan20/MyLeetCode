@@ -1,7 +1,8 @@
 # LeetCode-331-Verify Preorder Serialization of a Binary Tree-验证二叉树的前序序列化
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/331.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/331.png)
+
 
 
 ## 综述：  

@@ -1,7 +1,8 @@
 # LeetCode-141-Linked List Cycle-环形链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/141.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/141.png)
+
 
 
 ## 综述：

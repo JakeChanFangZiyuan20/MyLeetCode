@@ -1,11 +1,13 @@
 # LeetCode-94-Binary Tree Inorder Traversal-二叉树的中序遍历
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/94.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/94.png)
+
 
 
 ## 综述：  
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/92-1.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/92-1.png)
+
 
 
 ## Code

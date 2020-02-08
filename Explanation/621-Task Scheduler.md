@@ -1,7 +1,8 @@
 # LeetCode-621-Task Scheduler-任务调度器
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/621.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/621.png)
+
 
 
 ## 综述：  
@@ -10,12 +11,14 @@
 \+ 为了总时间最短，最好先将出现次数最多的任务执行。
 \+ 例如"AAAABBBCCEEE, n = 2"中，先执行最多的A，则"A--A--A--A"，其中'-'为间隔，那么剩余未执行的任务插空即可。  
 \+ 以下做出二维图：  
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/621-1.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/621-1.png)
+
 
 \+ 从上方二维图可以按出，先执行次数最多的任务（max次），则会产生(max - 1) * n个空闲位置idle，剩余任务插空即可。  
 \+ 若idle数小于任务总数减去上图最左一列的任务数（即tasks.size() - max），则返回tasks.size()，若大于则返回(max - 1) + idle + maxNum。  
 \+ 若存在两个或两个以上任务需要执行次数相同，则有下图：  
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/621-2.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/621-2.png)
+
 
 \+ 则任务总数减去上图最左一列和最后一行的任务后，再和idle比较。  
 

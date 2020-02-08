@@ -1,12 +1,14 @@
 # LeetCode-145-Binary Tree Postorder Traversal-二叉树的后序遍历
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/145.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/145.png)
+
 
 
 
 ## 综述：  
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/145-1.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/145-1.png)
+
 
 
 ## Code

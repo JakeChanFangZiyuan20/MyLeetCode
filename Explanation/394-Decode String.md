@@ -1,7 +1,8 @@
 # LeetCode-394-Decode String-字符串解码
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/394.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/394.png)
+
 
 
 ## 综述：  

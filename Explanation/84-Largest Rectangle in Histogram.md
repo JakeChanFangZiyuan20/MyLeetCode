@@ -1,7 +1,8 @@
 # LeetCode-84-Largest Rectangle in Histogram-柱状图中最大的矩形
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/84.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/84.png)
+
 
 
 ## 综述：  

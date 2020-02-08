@@ -1,7 +1,8 @@
 # LeetCode-42-Trapping Rain Water-接雨水
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/42.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/42.png)
+
 
 
 ## 综述：  

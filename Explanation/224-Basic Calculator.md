@@ -1,7 +1,8 @@
 # LeetCode-224-Basic Calculator-基本计算器
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/224.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/224.png)
+
 
 
 ## 综述：  
