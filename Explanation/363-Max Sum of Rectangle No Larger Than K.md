@@ -1,98 +1,52 @@
 # LeetCode-363-Max Sum of Rectangle No Larger Than K-矩形区域不超过 K 的最大数值和
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/2.png)
-
-
-
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/363.png)
 
 
 ## 综述：  
-1、本题采取两个链表同步相加，即抽出两个链表当前值相加后判断进位，将个位赋值覆盖两个链表当前值。<br/>
-2、如果同步结束，即两个链表同结点数，若有进位则在第一个链表最后加上一个值为1的节点。<br/>
-3、如果链1比链2长则将在链1改为所指节点值加0，并加进位，然后修改当前值，如此重复到最后一个节点，如果有进位则添加一个值为1的节点在最后。最后返回链1<br/>
-4、如果链2比链1长则同第3条。<br/>
+\+ 本题参考了题解。  
+\+ 该题有一个基础就是[LeetCode53.最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)使用结合set来a的的基础。
+\+ 对于获得子矩形的值和，可以先构建整个矩形的前缀和矩阵，也就是$presum[0][0] = a[0][0], presum[i][j] = \sum_{j = 1}^{n}a[i][j - 1] n为列数$，其中$presum$也可以在每一行的第一个元素先赋值0。那么，在计算一个矩形和时，只需定义好左右（l，r）边界，然后计算每一行的和，假设有f行，则每一行有一个值(假设在第$i$行$presum[i][r] - presum[i][l - 1]$)，共有f个值，可看成一个新数组$NewPreSum$。这个操作相当于降维。那么假设计算第x行到y行的矩阵值的和则为$sum = NewPreSum[y] - NewPreSum[x - 1]$。按照题目要求，要找到矩阵值和尽可能靠近$k$，即$sum = NewPreSum[y] - NewPreSum[x - 1] \leq k$，也为$NewPreSum[y] - k\leq NewPreSum[x - 1] $，意为在$NewPreSum[y]$前面的值找一个大于$NewPreSum[y] - k$的最小值，记为$lower$，那么如同LeetCode53.最大子序和中一样，用set（自动排序）来存储$NewPreSum[y]$之前的值，由于set有一个lower_bound(val)的函数，用于找到大于val的最小值，所以这里用set。若找到这样一个$lower$值，然后$NewPreSum[y] - lower$肯定小于等k，那么只需和结果值（可以先设为INT_MIN）比较，取最大更新结果值就可以找到小于$k$距离$k$最近的值。还需要把$NewPreSum[y]$放入set中，因为当前$NewPreSum[y]$相当于之后的$NewPreSum[x - 1]$。  
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/363-1.png)
+
 
 ## Code
 ```
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int a, b, c, d = 0;
-        ListNode *p1 = l1, *p2 = l2, *result = NULL, *pre, *NewNode = new ListNode(0);
-        while(p1 != NULL && p2 != NULL){
-            a = p1->val;
-            b = p2->val;
-            c = a + b + d;
-            d = c / 10;
-            p1->val = p2->val = c % 10;
-            
-            if(p1->next == NULL && p2->next == NULL){
-                if(d){
-                    NewNode->val = d;
-                    p1->next = NewNode;
-                }
-                result = l1;
-                break;
+    int maxSumSubmatrix(vector<vector<int>>& matrix, int k) {
+        int m = matrix.size(), n = matrix[0].size();
+        vector<vector<int>>pre(m, vector<int>(n + 1, 0));
+        for(int i = 0; i < m; i++){
+            for(int j = 1; j <= n; j++){
+                pre[i][j] = pre[i][j - 1] + matrix[i][j - 1];
             }
-            else if(p1->next != NULL && p2->next == NULL){
-                pre = p1;
-                p1 = p1->next;
-                while(p1 != NULL){
-                    a = p1->val;
-                    c = a + d;
-                    d = c / 10;
-                    p1->val = c % 10;
-                    p1 = p1->next;
-                    pre = pre->next;
-                }
-                if(d){
-                    NewNode->val = d;
-                    pre->next = NewNode;
-                }
-                result = l1;
-                break;
-            }
-            else if(p1->next == NULL && p2->next != NULL){
-                pre = p2;
-                p2 = p2->next;
-                while(p2 != NULL){
-                    b = p2->val;
-                    c = b + d;
-                    d = c / 10;
-                    p2->val = c % 10;
-                    p2 = p2->next;
-                    pre = pre->next;
-                }
-                if(d){
-                    NewNode->val = d;
-                    pre->next = NewNode;
-                }
-                result = l2;
-                break;
-            }
-
-            p1 = p1->next;
-            p2 = p2->next;
         }
+        int result = INT_MIN;
+        for(int left = 1; left <= n; left++){
+            for(int right = left; right <= n; right++){
+                set<int>NumSet;
+                NumSet.insert(0);
+                int curSum = 0;
+                for(int i = 0; i < m; i++){
+                    int preSum = pre[i][right] - pre[i][left - 1];
+                    curSum += preSum;
 
+                    set<int>::iterator iter = NumSet.lower_bound(curSum - k);
+                    if(iter != NumSet.end()) result = max(result, curSum - *iter);
+                    NumSet.insert(curSum);
+                }
+            }
+        }
         return result;
     }
 };
 ```
 
-## 需要修改的地方：
-代码过于繁杂
 
 ## 复杂度分析
-空间复杂度O(1)  
-时间复杂度O(n)
+m为矩阵行数，n为矩阵列数
+空间复杂度O(mn)  
+时间复杂度O(mnlogn)，set的插入操作O(longn)
 
