@@ -4,95 +4,68 @@
 ![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/2.png)
 
 
-
-
-
 ## 综述：  
-1、本题采取两个链表同步相加，即抽出两个链表当前值相加后判断进位，将个位赋值覆盖两个链表当前值。<br/>
-2、如果同步结束，即两个链表同结点数，若有进位则在第一个链表最后加上一个值为1的节点。<br/>
-3、如果链1比链2长则将在链1改为所指节点值加0，并加进位，然后修改当前值，如此重复到最后一个节点，如果有进位则添加一个值为1的节点在最后。最后返回链1<br/>
-4、如果链2比链1长则同第3条。<br/>
+\+ 方法一：  
+\+ 设所给数组为a，先构造一个前缀序列presum，即 $ presum[0] = a[0], presum[i] = \sum_{i = 1}^{n}a[i - 1]$  
+\+ 当计算 $ \sum_{k = i}^{j}a[k]$ 时，只需sum = presum[j] - presum[i - 1]（在构造前缀数组时可先将0放入，即presum[0] = 0，presum[1] = a[0]）
+\+ 按照题目要求，需要找到max(sum)。由于从左开始遍历presum，当前为presum[j]。要使得sum最大，则presum[i - 1]要最小，即需要再当前数值前找到一个最小的数值，所以我们可以用set来存储presum[j]之前的值，因为set会自动将存入的数值排序。故每遍历到前缀数组的一个数值，然后返回set中begin值，相减后和maxS比较，若大于则更新maxS，然后将当前presum[j]放入set中。  
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/53-1.png)
+  
+\+ 方法二：  
+\+ 贪心算法
+\+ 对于所给的序列，其中包含多个不连续非值最大的子序列。每遍历到一个值，若其之前的子序列小于0，则这个之前的子序列加到当前值只会让所构成的新的子序列和值更小，那么需要更新之前的子序列。若之前的子序列和值大于0，则当前数值加上之前的子序列和值会让子序列值增大，所以不需更新之前的子序列值。  
 
-## Code
+## Code-1
 ```
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int a, b, c, d = 0;
-        ListNode *p1 = l1, *p2 = l2, *result = NULL, *pre, *NewNode = new ListNode(0);
-        while(p1 != NULL && p2 != NULL){
-            a = p1->val;
-            b = p2->val;
-            c = a + b + d;
-            d = c / 10;
-            p1->val = p2->val = c % 10;
-            
-            if(p1->next == NULL && p2->next == NULL){
-                if(d){
-                    NewNode->val = d;
-                    p1->next = NewNode;
-                }
-                result = l1;
-                break;
-            }
-            else if(p1->next != NULL && p2->next == NULL){
-                pre = p1;
-                p1 = p1->next;
-                while(p1 != NULL){
-                    a = p1->val;
-                    c = a + d;
-                    d = c / 10;
-                    p1->val = c % 10;
-                    p1 = p1->next;
-                    pre = pre->next;
-                }
-                if(d){
-                    NewNode->val = d;
-                    pre->next = NewNode;
-                }
-                result = l1;
-                break;
-            }
-            else if(p1->next == NULL && p2->next != NULL){
-                pre = p2;
-                p2 = p2->next;
-                while(p2 != NULL){
-                    b = p2->val;
-                    c = b + d;
-                    d = c / 10;
-                    p2->val = c % 10;
-                    p2 = p2->next;
-                    pre = pre->next;
-                }
-                if(d){
-                    NewNode->val = d;
-                    pre->next = NewNode;
-                }
-                result = l2;
-                break;
-            }
-
-            p1 = p1->next;
-            p2 = p2->next;
+    int maxSubArray(vector<int>& nums) {
+        if(nums.size() == 1) return nums[0];
+        int maxSum = -2147483648;
+        // 构造前缀数组
+        for(int i = 1; i < nums.size(); i++){
+            nums[i] += nums[i - 1];
         }
 
-        return result;
+        //
+        set<int>Set;
+        Set.insert(0);
+        for(int i = 0; i < nums.size(); i++){
+            int curMax = nums[i] - *Set.begin();
+            maxSum = max(maxSum, curMax);
+            Set.insert(nums[i]);
+        }
+        return maxSum;
     }
 };
+
 ```
 
-## 需要修改的地方：
-代码过于繁杂
+## Code-2
+```
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int preSum = 0, maxSum = 0;
+        preSum = maxSum = nums [0];
+        for(int i = 1; i < nums.size(); i++){
+            if(preSum < 0) preSum = nums[i];
+            else{
+                preSum += nums[i];
+            }
+            maxSum = max(maxSum, preSum);
+        }
+        return maxSum;
+    }
+};
+
+```
 
 ## 复杂度分析
-空间复杂度O(1)  
+\+ 方法一  
+
+
+\+ 方法二  
+空间复杂度O(n)  
 时间复杂度O(n)
 
