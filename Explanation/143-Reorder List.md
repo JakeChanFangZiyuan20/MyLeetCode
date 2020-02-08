@@ -1,7 +1,9 @@
 # LeetCode-143-Reorder List-重排链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/143.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/143.png)
+
+
 
 
 

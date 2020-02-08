@@ -1,7 +1,9 @@
 # LeetCode-92-Reverse Linked List-反转链表II
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/92.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/92.png)
+
+
 
 
 

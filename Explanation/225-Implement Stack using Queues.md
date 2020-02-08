@@ -1,7 +1,9 @@
 # LeetCode-225-Implement Stack using Queues-用队列实现栈
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/225.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/225.png)
+
+
 
 
 

@@ -1,7 +1,9 @@
 # LeetCode-160-Intersection of Two Linked Lists-相交链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/160.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/160.png)
+
+
 
 
 

@@ -1,7 +1,9 @@
 ﻿# LeetCode-234-Palindrome Linked List-回文链表题解
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/234.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/234.png)
+
+
 
 
 

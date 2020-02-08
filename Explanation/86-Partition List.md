@@ -1,7 +1,9 @@
 # LeetCode-86-Partition List-分割链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/86.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/86.png)
+
+
 
 
 

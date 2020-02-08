@@ -1,13 +1,17 @@
 # LeetCode-144-Binary Tree Preorder Traversal-二叉树的前序遍历
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/144.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/144.png)
+
+
 
 
 
 
 ## 综述：  
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/144-1.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/144-1.png)
+
+
 
 
 

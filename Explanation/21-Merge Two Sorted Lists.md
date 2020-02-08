@@ -1,7 +1,9 @@
 # LeetCode-21-Merge Two Sorted Lists-合并两个有序链表
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/21.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/21.png)
+
+
 
 
 

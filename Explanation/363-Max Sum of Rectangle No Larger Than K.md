@@ -1,7 +1,9 @@
 # LeetCode-363-Max Sum of Rectangle No Larger Than K-矩形区域不超过 K 的最大数值和
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/2.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/2.png)
+
+
 
 
 

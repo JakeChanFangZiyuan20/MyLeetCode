@@ -1,7 +1,9 @@
 # LeetCode-150-Evaluate Reverse Polish Notation-逆波兰表达式求值
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/150.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/150.png)
+
+
 
 
 

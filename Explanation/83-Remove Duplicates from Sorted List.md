@@ -1,7 +1,9 @@
 # LeetCode-83-Remove Duplicates from Sorted List-删除排序链表中的重复元素
 
 ## 题目要求：
-![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/83.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/83.png)
+
+
 
 
 
