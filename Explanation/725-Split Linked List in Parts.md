@@ -1,7 +1,7 @@
 # LeetCode-725-Split Linked List in Parts-分割链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/725.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/725.png)
 
 
 

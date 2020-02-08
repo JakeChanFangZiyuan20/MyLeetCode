@@ -1,7 +1,7 @@
 # LeetCode-24-Swap Nodes in Pairs-两两交换链表中的节点
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/24.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/24.png)
 
 
 

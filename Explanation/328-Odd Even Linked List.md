@@ -1,7 +1,7 @@
 # LeetCode-328-Odd Even Linked List-奇偶链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/328.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/328.png)
 
 
 

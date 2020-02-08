@@ -1,7 +1,7 @@
 # LeetCode-142-Linked List CycleII-环形链表II
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/142.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/142.png)
 
 
 

@@ -1,7 +1,7 @@
 # LeetCode-109-Convert Sorted List to Binary Search Tree-有序链表转换二叉搜索树
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/109.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/109.png)
 
 
 

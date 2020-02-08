@@ -1,7 +1,7 @@
 # LeetCode-85-Maximal Rectangle-最大矩形
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/85.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/85.png)
 
 
 
@@ -20,7 +20,7 @@
 \+ 从每一个1点为其能形成的矩形的右下节点出发。  
 \+ 对于matrix的每一行，对每一个1点进行计数，并放入到对应的int的二维数组graph：  
 &emsp;&emsp;\+ 若当前为0，对应为0；若当前为1，则查看其前一个是否为0，为0，则对应1，不为0，则对应前一个数+1。  
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/85-1.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/85-1.png)
 
 
 
@@ -28,7 +28,7 @@
 \+ 构建完二维数组后，遍历每一个元素：  
 &emsp;&emsp;\+ 若当前为0，则continue；  
 &emsp;&emsp;\+ 若不为0，则设当前最大高curMaxHeight为1，最大宽curMaxHeight为graph[i][j]，当前最大面积curNodeS为curMaxHeight * curMaxLength。然后在同一列，以当前节点开始向上遍历，向上1格，curMaxHeight + 1，然后判断向上后的位置里的数值和curMaxLength比较，若小于，则用向上后的位置里的数值更新curMaxLength。然后设newS为curMaxLength * curMaxHeight，再和curNodeS比较大小，若大于curNodeS，则用newS更新curNodeS。若向上操作完成后，用curNodeS和maxS比较大小，大于则用curNodeS更新maxS。  
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/85-2.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/85-2.png)
 
 
 

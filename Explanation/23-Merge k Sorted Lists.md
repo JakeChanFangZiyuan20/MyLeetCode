@@ -1,7 +1,7 @@
 # LeetCode-23-Merge k Sorted Lists-合并K个有序链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/23.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/23.png)
 
 
 

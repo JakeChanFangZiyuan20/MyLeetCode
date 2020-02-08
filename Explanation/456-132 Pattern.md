@@ -1,7 +1,7 @@
 # LeetCode-456-132 Pattern-132模式
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/456.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/456.png)
 
 
 

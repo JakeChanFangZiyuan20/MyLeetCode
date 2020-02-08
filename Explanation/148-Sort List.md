@@ -1,7 +1,7 @@
 # LeetCode-148-Sort List-排序链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/148.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/148.png)
 
 
 

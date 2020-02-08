@@ -1,7 +1,7 @@
 # LeetCode-316-Remove Duplicate Letters-去除重复字母
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/316.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/316.png)
 
 
 

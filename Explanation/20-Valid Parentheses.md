@@ -1,7 +1,7 @@
 # LeetCode-20-Valid Parentheses-有效的括号
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/img/img/20.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/20.png)
 
 
 
