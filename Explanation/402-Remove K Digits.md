@@ -1,7 +1,8 @@
 # LeetCode-402-Remove K Digits-移掉k位数字
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/402.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/402.png)
+
 
 ## 综述：
 \+ 这题参考了题解。  

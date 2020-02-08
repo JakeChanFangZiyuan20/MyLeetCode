@@ -1,7 +1,8 @@
 # LeetCode-71-Simplify Path-简化路径
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/71.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/71.png)
+
 
 
 ## 综述：  

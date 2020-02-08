@@ -1,7 +1,8 @@
 # LeetCode-42-Trapping Rain Water-接雨水
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/42.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/42.png)
+
 
 ## 综述：  
 \+ 该题一开始想到栈，然后却以栈顶为左边界去想，若当前比栈顶小则入栈，结果想了许久最终参考。  

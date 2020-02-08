@@ -1,7 +1,8 @@
 # LeetCode-725-Split Linked List in Parts-分割链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/725.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/725.png)
+
 
 ## 综述：
 \+ 若k = 1，则直接将所给链表入结果vector。  

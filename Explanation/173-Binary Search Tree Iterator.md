@@ -1,7 +1,8 @@
 # LeetCode-173-Binary Search Tree Iterator-二叉搜索树迭代器
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/173.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/173.png)
+
 
 ## 综述：  
 \+ 该题一开始的想法是中序遍历整个树，数值存储在容器内，那么next和hasnext的函数处理就容易了。  

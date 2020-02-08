@@ -1,7 +1,8 @@
 # LeetCode-316-Remove Duplicate Letters-去除重复字母
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/316.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/316.png)
+
 
 ## 综述：  
 \+ 思路：符合字典序，则为a-z从小到大，使用栈，压栈时尽量保持从栈尾到栈顶由小到大。但要符合原字符串的字符相对顺序，并删除重复字母。则压栈时检测栈顶是否大于当前字符，若大于，则检测当前字符后是否还有栈顶字符，若还有，则将栈顶字符弹出。直到栈为空或者栈顶字符小于当前字符或者栈顶字符大于当前字符但当前字符后已经没有栈顶字符时，将栈顶字符压入栈。但遍历到每个字符时，若栈中已有当前字符，则跳过。  

@@ -1,7 +1,8 @@
 # LeetCode-143-Reorder List-重排链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/143.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/143.png)
+
 
 ## 综述：
 1、将链表分成两部分，使用快慢指针。  

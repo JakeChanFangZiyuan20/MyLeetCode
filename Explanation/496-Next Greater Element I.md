@@ -1,7 +1,8 @@
 # LeetCode-496-Next Greater Element I-下一个更大元素 I
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/496.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/496.png)
+
 
 ## 综述：  
 \+ 该题参考了题解，还有很长的一段路要走。  

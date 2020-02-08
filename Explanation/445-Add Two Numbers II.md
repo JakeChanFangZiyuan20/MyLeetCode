@@ -1,7 +1,8 @@
 # LeetCode-445-Add Two Numbers II-两数相加 II
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/445.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/445.png)
+
 
 ## 综述：
 \+ 将两条链分别进栈1，2。  

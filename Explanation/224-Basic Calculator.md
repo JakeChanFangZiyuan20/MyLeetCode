@@ -1,7 +1,8 @@
 # LeetCode-224-Basic Calculator-基本计算器
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/224.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/224.png)
+
 
 ## 综述：  
 第一步：将所给字符串转化成逆波兰表达式。  

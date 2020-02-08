@@ -1,7 +1,8 @@
 # LeetCode-92-Reverse Linked List-反转链表II
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/92.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/92.png)
+
 
 ## 综述：
 这题核心反转，把反转链提取后进行反转，然后再拼接上。  

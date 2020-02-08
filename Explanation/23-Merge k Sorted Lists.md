@@ -1,7 +1,8 @@
 # LeetCode-23-Merge k Sorted Lists-合并K个有序链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/23.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/23.png)
+
 
 ## 综述：
 以vector中的第一条非空链表为基础，后续链表逐个元素比较插入。

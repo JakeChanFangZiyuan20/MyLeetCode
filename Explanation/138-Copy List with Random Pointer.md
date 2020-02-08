@@ -1,7 +1,8 @@
 # LeetCode-138-Copy List with Random Pointer-复制带随机指针的链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/138.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/138.png)
+
 
 ## 综述：
 1、next拼接：按照next创建新链并连接。  
@@ -65,4 +66,4 @@ public:
 
 ## 复杂度
 空间复杂度O(1)  
-时间复杂度n的平方
+时间复杂度O(n<sup>2</sup>)

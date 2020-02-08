@@ -1,7 +1,8 @@
 ﻿# LeetCode-234-Palindrome Linked List-回文链表题解
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/234.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/234.png)
+
 
 ## 综述：
 先用快慢指针得方法找到中间节点。<br/>

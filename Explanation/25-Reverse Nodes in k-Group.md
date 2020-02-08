@@ -1,7 +1,8 @@
 # LeetCode-25-Reverse Nodes in k-Group-K 个一组翻转链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/25.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/25.png)
+
 
 ## 综述：
 扫描出k个节点作为新链进行翻转后拼接到最终结果链的尾部。  

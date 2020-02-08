@@ -1,7 +1,8 @@
 # LeetCode-232-Implement Queue using Stacks-用栈实现队列
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/232.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/232.png)
+
 
 ## 综述：  
 \+ push、empty操作直接调用stack的push、empty操作。  

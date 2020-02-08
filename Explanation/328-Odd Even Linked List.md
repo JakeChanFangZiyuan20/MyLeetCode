@@ -1,7 +1,8 @@
 # LeetCode-328-Odd Even Linked List-奇偶链表
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/328.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/328.png)
+
 
 ## 综述：
 逐个扫描，奇数位进入奇数链，偶数位进入偶数链，最后奇偶链合并。  

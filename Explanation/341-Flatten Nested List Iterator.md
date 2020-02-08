@@ -1,7 +1,8 @@
 # LeetCode-341-Flatten Nested List Iterator-扁平化嵌套列表迭代器
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/341.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/341.png)
+
 
 ## 综述：  
 \+ 使用一个队列做为结果存储。  

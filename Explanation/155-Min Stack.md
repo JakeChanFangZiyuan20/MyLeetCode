@@ -1,7 +1,8 @@
 # LeetCode-155-Min Stack-最小栈
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E6%A0%88/img/155.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/155.png)
+
 
 ## 综述：  
 \+ 一开始直接刚，使用链表建栈，不适用系统stack，然后在getmin中使用逐个搜寻的暴力方式，最终时长100+ms。  

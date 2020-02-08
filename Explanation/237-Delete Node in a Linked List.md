@@ -1,7 +1,8 @@
 # LeetCode-237-Delete Node in a Linked List-删除链表中的节点
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/237.png)
+![avatar](https:///github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/237.png)
+
 
 ## 综述：
 此题目给定节点node即为要删除的节点。<br/>
