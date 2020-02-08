@@ -6,7 +6,7 @@
 ## 记录
 | # | Title | CNTitle | Difficulty |
 | :----: | :----: | :----: | :----: |
-| [2](https://leetcode-cn.com/problems/add-two-numbers/) | [Add Two Numbers](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/2-Add%20Two%20Numbers.md) | 两数相加 | <font color=Orange>Medium</font> |
+| [2](https://leetcode-cn.com/problems/add-two-numbers/){:target="_blank"} | [Add Two Numbers](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/2-Add%20Two%20Numbers.md) | 两数相加 | <font color=Orange>Medium</font> |
 | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/19-Remove%20Nth%20Node%20From%20End%20of%20List.md) | 删除链表的倒数第N节点 | <font color=Orange>Medium</font> |
 | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/20-Valid%20Parentheses.md) | 有效的括号 | <font color=Blue><font color=Green>Easy</font></font> |
 | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/21-Merge%20Two%20Sorted%20Lists.md) | 合并两个有序链表 | <font color=Blue><font color=Green>Easy</font></font> |
