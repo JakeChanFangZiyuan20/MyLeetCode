@@ -7,8 +7,8 @@
 ## 综述：  
 \+ 本题参考了题解。  
 \+ 方法一：  
-\+ 设所给数组为a，先构造一个前缀序列presum，即 $ presum[0] = a[0], presum[i] = \sum_{i = 1}^{n}a[i - 1]$  
-\+ 当计算 $ \sum_{k = i}^{j}a[k]$ 时，只需sum = presum[j] - presum[i - 1]（在构造前缀数组时可先将0放入，即presum[0] = 0，presum[1] = a[0]）
+\+ 设所给数组为a，先构造一个前缀序列presum，即presum[0] = a[0], presum[i] = a[1] + a[2] + ... + a[i - 1]  
+\+ 当计算 a[1] + a[2] + ... + a[i - 1] 时，只需sum = presum[j] - presum[i - 1]（在构造前缀数组时可先将0放入，即presum[0] = 0，presum[1] = a[0]）  
 \+ 按照题目要求，需要找到max(sum)。由于从左开始遍历presum，当前为presum[j]。要使得sum最大，则presum[i - 1]要最小，即需要再当前数值前找到一个最小的数值，所以我们可以用set来存储presum[j]之前的值，因为set会自动将存入的数值排序。故每遍历到前缀数组的一个数值，然后返回set中begin值，相减后和maxS比较，若大于则更新maxS，然后将当前presum[j]放入set中。  
 ![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/53-1.png)
   
