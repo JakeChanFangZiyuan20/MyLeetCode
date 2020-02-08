@@ -1,7 +1,7 @@
-# LeetCode-2-Add Two Number-两数相加
+# LeetCode-2-Add Two Numbers-两数相加
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/%E9%93%BE%E8%A1%A8%E7%B1%BB/img/2.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/2.png)
 
 ## 综述：  
 1、本题采取两个链表同步相加，即抽出两个链表当前值相加后判断进位，将个位赋值覆盖两个链表当前值。<br/>
