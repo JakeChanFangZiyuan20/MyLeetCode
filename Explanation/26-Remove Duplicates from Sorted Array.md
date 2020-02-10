@@ -1,7 +1,7 @@
 # LeetCode-26-Remove Duplicates from Sorted Array-删除排序数组中的重复项
 
 ## 题目要求：
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/1.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/26.png)
 
 ## 综述：  
 \+ 该题最直接的想法就是直接用vector中的erase，但会用时很长。这里的Code-1和Code-2  
