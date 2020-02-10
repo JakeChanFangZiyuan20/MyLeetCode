@@ -19,6 +19,7 @@
 | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Swap Nodes in Pairs](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/24-Swap%20Nodes%20in%20Pairs.md) | 两两交换链表中的节点 | Medium |
 | [25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Reverse Nodes in k-Group](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/25-Reverse%20Nodes%20in%20k-Group.md) | K 个一组翻转链表 | Hard |
 | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/26-Remove%20Duplicates%20from%20Sorted%20Array.md) | 删除排序数组中的重复项 | Easy |
+| [27](https://leetcode-cn.com/problems/remove-element/) | [Remove Element](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/27-Remove%20Element.md) | 移除元素 | Easy |
 | [42](https://leetcode-cn.com/problems/trapping-rain-water/) | [Trapping Rain Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/42-Trapping%20Rain%20Water.md) | 接雨水 | Hard |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/53-Maximum%20Subarray.md) | 最大子序和 | Easy |
 | [61](https://leetcode-cn.com/problems/rotate-list/) | [Rotate List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/61-Rotate%20List.md) | 旋转链表 | Medium |
