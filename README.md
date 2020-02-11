@@ -27,6 +27,7 @@
 | [42](https://leetcode-cn.com/problems/trapping-rain-water/) | [Trapping Rain Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/42-Trapping%20Rain%20Water.md) | 接雨水 | Hard |
 | [48](https://leetcode-cn.com/problems/rotate-image/) | [Rotate Image](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/48-Rotate%20Image.md) | 旋转图像 | Medium |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/53-Maximum%20Subarray.md) | 最大子序和 | Easy |
+| [54](https://leetcode-cn.com/problems/spiral-matrix/) | [Spiral Matrix](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/54-Spiral%20Matrix.md) | 螺旋矩阵 | Medium |
 | [61](https://leetcode-cn.com/problems/rotate-list/) | [Rotate List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/61-Rotate%20List.md) | 旋转链表 | Medium |
 | [71](https://leetcode-cn.com/problems/simplify-path/) | [Simplify Path](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/71-Simplify%20Path.md) | 简化路径 | Medium |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/82-Remove%20Duplicates%20from%20Sorted%20List%20II.md) | 删除排序链表中的重复元素II | Medium |
