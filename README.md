@@ -38,6 +38,7 @@
 | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/62-Unique%20Paths.md) | 不同路径 | Medium |
 | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/63-Unique%20Paths%20II.md) | 不同路径 II | Medium |
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/64-Minimum%20Path%20Sum.md) | 最小路径和 | Medium |
+| [66](https://leetcode-cn.com/problems/plus-one/) | [Plus One](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/66-Plus%20One.md) | 加一 | Easy |
 | [71](https://leetcode-cn.com/problems/simplify-path/) | [Simplify Path](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/71-Simplify%20Path.md) | 简化路径 | Medium |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/82-Remove%20Duplicates%20from%20Sorted%20List%20II.md) | 删除排序链表中的重复元素II | Medium |
 | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/83-Remove%20Duplicates%20from%20Sorted%20List.md) | 删除排序链表中的重复元素 | Easy |
