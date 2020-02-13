@@ -40,6 +40,7 @@
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/64-Minimum%20Path%20Sum.md) | 最小路径和 | Medium |
 | [66](https://leetcode-cn.com/problems/plus-one/) | [Plus One](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/66-Plus%20One.md) | 加一 | Easy |
 | [71](https://leetcode-cn.com/problems/simplify-path/) | [Simplify Path](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/71-Simplify%20Path.md) | 简化路径 | Medium |
+| [73](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/73-Set%20Matrix%20Zeroes.md) | 矩阵置零 | Medium |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/82-Remove%20Duplicates%20from%20Sorted%20List%20II.md) | 删除排序链表中的重复元素II | Medium |
 | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/83-Remove%20Duplicates%20from%20Sorted%20List.md) | 删除排序链表中的重复元素 | Easy |
 | [84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/84-Largest%20Rectangle%20in%20Histogram.md) | 柱状图中最大的矩形 | Hard |
