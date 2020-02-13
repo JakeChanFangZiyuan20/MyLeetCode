@@ -9,6 +9,10 @@
 \+ 上图已采用一定的剪枝。节点为剩余元素，连接线上的数字为从剩余元素中组成新子集的元素。那么对于图中的一个节点可以抽出节点内的每一个元素，然后形成新的节点，但这里将因为排除重复而适当剪枝，就是该节点抽出的元素必须大于其连结到其父节点的连接线上的数字。然后就是如果节点为空则直接结束本次递归调用。  
 \+ 新的子集将由连接线上的数字组成。  
 \+ 对于空集可以在进行 DFS 前就加入到结果集中。
+\+ 以下为过程：  
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/78-2.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/78-3.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/78-4.png)
 
 
 ## Code
