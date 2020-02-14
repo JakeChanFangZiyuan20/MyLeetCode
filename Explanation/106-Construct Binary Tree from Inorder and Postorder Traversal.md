@@ -4,7 +4,7 @@
 ![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/106.png)
 
 ## 综述：  
-\+ 该题做法跟[LeetCode105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)做法大致相同，但却别在于后序数组从后往前遍历并且先进入右子树则递归再进入左子树的递归。  
+\+ 该题做法跟[LeetCode105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)做法大致相同，但区别在于后序数组从后往前遍历并且先进入右子树则递归再进入左子树的递归。  
 
 ## Code
 ```
