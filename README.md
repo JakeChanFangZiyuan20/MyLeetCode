@@ -73,6 +73,7 @@
 | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/147-Insertion%20Sort%20List.md) | 对链表进行插入排序 | Medium |
 | [148](https://leetcode-cn.com/problems/sort-list/) | [Sort List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/148-Sort%20List.md) | 排序链表 | Medium |
 | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/150-Evaluate%20Reverse%20Polish%20Notation.md) | 逆波兰表达式求值 | Medium |
+| [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Maximum Product Subarray](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/152-Maximum%20Product%20Subarray.md) | 乘积最大子序列 | Medium |
 | [155](https://leetcode-cn.com/problems/min-stack/) | [Min Stack](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/155-Min%20Stack.md) | 最小栈 | Easy |
 | [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/160-Intersection%20of%20Two%20Linked%20Lists.md) | 相交链表 | Easy |
 | [173](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Binary Search Tree Iterator](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/173-Binary%20Search%20Tree%20Iterator.md) | 二叉搜索树迭代器 | Medium |
