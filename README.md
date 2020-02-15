@@ -62,6 +62,7 @@
 | [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/109-Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | 有序链表转换二叉搜索树 | Medium |
 | [118](https://leetcode-cn.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/118-Pascal's%20Triangle.md) | 杨辉三角 | Easy |
 | [119](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/119-Pascal's%20Triangle%20II.md) | 杨辉三角 II | Easy |
+| [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/120-Triangle.md) | 三角形最小路径和 | Medium |
 | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/138-Copy%20List%20with%20Random%20Pointer.md) | 复制带随机指针的链表 | Medium |
 | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/141-Linked%20List%20Cycle.md) | 环形链表 | Easy |
 | [142](https://leetcode-cn.com/problems/linked-list-cycleii/) | [Linked List Cycle II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/142-Linked%20List%20CycleII.md) | 环形链表II | Medium |
