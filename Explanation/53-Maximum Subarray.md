@@ -12,9 +12,13 @@
 \+ 按照题目要求，需要找到max(sum)。由于从左开始遍历presum，当前为presum[j]。要使得sum最大，则presum[i - 1]要最小，即需要再当前数值前找到一个最小的数值，所以我们可以用set来存储presum[j]之前的值，因为set会自动将存入的数值排序。故每遍历到前缀数组的一个数值，然后返回set中begin值，相减后和maxS比较，若大于则更新maxS，然后将当前presum[j]放入set中。  
 ![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/53-1.png)
   
-\+ 方法二：  
-\+ 贪心算法：  
+\+ 方法二：贪心算法   
 \+ 对于所给的序列，其中包含多个不连续非值最大的子序列。每遍历到一个值，若其之前的子序列小于0，则这个之前的子序列加到当前值只会让所构成的新的子序列和值更小，那么需要更新之前的子序列。若之前的子序列和值大于0，则当前数值加上之前的子序列和值会让子序列值增大，所以不需更新之前的子序列值。  
+
+\+ 方法三：动态规划  
+\+ 设立当前最大 dpMax[i] 和目前总最大 Max[i]，那么则有：  
+\+ dpMax[i] = max(nums[i], dpMax[i - 1] + nums[i])  
+\+ Max = max(dpMax[i], Max)  
 
 ## Code-1
 ```
