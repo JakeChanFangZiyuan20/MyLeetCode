@@ -6,6 +6,7 @@
 ## 综述：  
 \+ 该题使用空间复杂度 O(k) 来求解。  
 \+ 下图为过程：
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/119-1.png)
 
 ## Code
 ```
