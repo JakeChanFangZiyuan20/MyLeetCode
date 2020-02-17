@@ -93,7 +93,7 @@
 | [224](https://leetcode-cn.com/problems/basic-calculator/) | [Basic Calculator](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/224-Basic%20Calculator.md) | 基本计算器 | Hard |
 | [225](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/225-Implement%20Stack%20using%20Queues.md) | 用队列实现栈 | Easy |
 | [228](https://leetcode-cn.com/problems/summary-ranges/) | [Summary Ranges](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/228-Summary%20Ranges.md) | 汇总区间 | Medium |
-| [229](https://leetcode-cn.com/problems/majority-element-ii/) | [Majority Element II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/229-Majority%20Element%20II.md) | 求众数 II |  |
+| [229](https://leetcode-cn.com/problems/majority-element-ii/) | [Majority Element II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/229-Majority%20Element%20II.md) | 求众数 II | Medium |
 | [232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [mplement Queue using Stacks](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/232-Implement%20Queue%20using%20Stacks.md) | 用栈实现队列 | Easy |
 | [234](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Palindrome Linked List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/234-Palindrome%20Linked%20List.md) | 回文链表题解 | Easy |
 | [237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/237-Delete%20Node%20in%20a%20Linked%20List.md) | 删除链表中的节点 | Easy |
