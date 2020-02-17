@@ -1,3 +1,4 @@
+// 方法一
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
@@ -17,3 +18,24 @@ public:
         return result;
     }
 };
+
+/*
+// 方法二：Boyer-Moore 算法
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int candidate = nums[0], count = 1, n = nums.size();
+        for(int i = 1; i < n; i++){
+            if(nums[i] == candidate) count++;
+            else{
+                count--;
+                if(count == 0){
+                    candidate = nums[i];
+                    count++;
+                }
+            }
+        }
+        return candidate;
+    }
+};
+*/
