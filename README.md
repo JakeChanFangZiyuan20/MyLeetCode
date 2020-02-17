@@ -89,6 +89,7 @@
 | [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/209-Minimum%20Size%20Subarray%20Sum.md) | 长度最小的子数组 | Medium |
 | [216](https://leetcode-cn.com/problems/combination-sum-iii/) | [Combination Sum III](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/216-Combination%20Sum%20III.md) | 组合总和 III | Medium |
 | [217](https://leetcode-cn.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/217-Contains%20Duplicate.md) | 存在重复元素 | Easy |
+| [219](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/219-Contains%20Duplicate%20II.md) | 存在重复元素 II | Easy |
 | [224](https://leetcode-cn.com/problems/basic-calculator/) | [Basic Calculator](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/224-Basic%20Calculator.md) | 基本计算器 | Hard |
 | [225](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/225-Implement%20Stack%20using%20Queues.md) | 用队列实现栈 | Easy |
 | [232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [mplement Queue using Stacks](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/232-Implement%20Queue%20using%20Stacks.md) | 用栈实现队列 | Easy |
