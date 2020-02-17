@@ -1,3 +1,4 @@
+// 方法一
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
@@ -36,3 +37,26 @@ public:
         return output;
     }
 };
+
+/*
+// 方法二
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>output(n, 1);
+        // 构造左乘积序列
+        for(int i = 1; i < n; i++){
+            output[i] = nums[i - 1] * output[i - 1];
+        }
+
+        int last = 1;
+        for(int i = n - 2; i >= 0; i--){
+            last *= nums[i + 1];
+            output[i] *= last; 
+        }
+        
+        return output;
+    }
+};
+*/
