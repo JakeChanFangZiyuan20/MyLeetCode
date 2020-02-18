@@ -101,6 +101,7 @@
 | [268](https://leetcode-cn.com/problems/missing-number/) | [Missing Number](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/268-Missing%20Number.md) | 缺失数字 | Easy |
 | [283](https://leetcode-cn.com/problems/move-zeroes/) | [Move Zeroes](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/283-Move%20Zeroes.md) | 移动零 | Easy |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/287-Find%20the%20Duplicate%20Number.md) | 寻找重复数 | Medium |
+| [289](https://leetcode-cn.com/problems/game-of-life/) | [Game of Life](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/289-Game%20of%20Life.md) | 生命游戏 | Medium |
 | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/316-Remove%20Duplicate%20Letters.md) | 去除重复字母 | Hard |
 | [328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Odd Even Linked List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/328-Odd%20Even%20Linked%20List.md) | 奇偶链表 | Medium |
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md) | 验证二叉树的前序序列化 | Medium |
