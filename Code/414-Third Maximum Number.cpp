@@ -20,56 +20,24 @@ public:
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<int>numsSet;
-        int n = nums.size(), maxNum = nums[0];
-        numsSet.insert(nums[0]);
-        for(int i = 1; i < n; i++){
-            numsSet.insert(nums[i]);
-            if(nums[i] > maxNum) maxNum = nums[i];
-        }
-        int result;
-        if(numsSet.size() < 3) result = maxNum;
-        else{
-            int count = 0;
-            for(auto iter = numsSet.begin(); iter != numsSet.end(); iter++){
-                count += 1;
-                if(count == numsSet.size() - 2){
-                    result = *iter;
-                    break;
-                }
+        int n = nums.size(), max1 = nums[0];
+        long max2, max3;
+        max2 = max3 = LONG_MIN;
+        for(int i = 0; i < n; i++){
+            if(nums[i] == max1 || nums[i] == max2 || nums[i] == max3) continue;
+            if(nums[i] > max1){
+                max3 = max2;
+                max2 = max1;
+                max1 = nums[i];
+            } else if(nums[i] > max2){
+                max3 = max2;
+                max2 = nums[i];
+            } else if(nums[i] > max3){
+                max3 = nums[i];
             }
         }
-        return result;
-    }
-};
-*/
-
-/*
-// 方法三
-class Solution {
-public:
-    int thirdMax(vector<int>& nums) {
-        int n = nums.size(), maxNum = nums[0];
-        set<int>numsSet; numsSet.insert(nums[0]);
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] > maxNum) maxNum = nums[i];
-
-            if (numsSet.find(nums[i]) == numsSet.end()) {
-                if (numsSet.size() < 3) {
-                    numsSet.insert(nums[i]);
-                }
-                else if (nums[i] > * numsSet.begin()) {
-                    numsSet.erase(numsSet.begin());
-                    numsSet.insert(nums[i]);
-                }
-            }
-        }
-
-        int result;
-        if (numsSet.size() < 3) result = maxNum;
-        else result = *numsSet.begin();
-        return result;
+        if(max3 == LONG_MIN) return max1;
+        return (int)max3;
     }
 };
 */
