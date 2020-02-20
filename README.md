@@ -113,6 +113,7 @@
 | [402](https://leetcode-cn.com/problems/remove-k-digits/) | [Remove K Digits](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/402-Remove%20K%20Digits.md) | 移掉k位数字 | Medium |
 | [414](https://leetcode-cn.com/problems/third-maximum-number/) | [Third Maximum Number](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/414-Third%20Maximum%20Number.md) | 第三大的数 | Easy |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/445-Add%20Two%20Numbers%20II.md) | 两数相加 II | Medium |
+| [448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | 找到所有数组中消失的数字 | Easy |
 | [456](https://leetcode-cn.com/problems/132-pattern/) | [132 Pattern](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/456-132%20Pattern.md) | 132模式 | Medium |
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [Next Greater Element I](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/496-Next%20Greater%20Element%20I.md) | 下一个更大元素 I | Easy |
 | [621](https://leetcode-cn.com/problems/task-scheduler/) | [Task Scheduler](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/621-Task%20Scheduler.md) | 任务调度器 | Medium |
