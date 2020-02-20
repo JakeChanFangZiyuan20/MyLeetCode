@@ -117,6 +117,7 @@
 | [448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | 找到所有数组中消失的数字 | Easy |
 | [456](https://leetcode-cn.com/problems/132-pattern/) | [132 Pattern](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/456-132%20Pattern.md) | 132模式 | Medium |
 | [457](https://leetcode-cn.com/problems/circular-array-loop/) | [Circular Array Loop](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/457-Circular%20Array%20Loop.md) | 环形数组循环 | Medium |
+| [495](https://leetcode-cn.com/problems/teemo-attacking/) | [Teemo Attacking](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/495-Teemo%20Attacking.md) | 提莫攻击 | Medium |
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [Next Greater Element I](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/496-Next%20Greater%20Element%20I.md) | 下一个更大元素 I | Easy |
 | [621](https://leetcode-cn.com/problems/task-scheduler/) | [Task Scheduler](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/621-Task%20Scheduler.md) | 任务调度器 | Medium |
 | [641](https://leetcode-cn.com/problems/design-circular-deque/) | [Design Circular Deque](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/641-Design%20Circular%20Deque.md) | 设计循环双端队列 | Medium |
