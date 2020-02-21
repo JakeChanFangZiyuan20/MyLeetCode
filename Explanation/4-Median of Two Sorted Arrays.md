@@ -6,6 +6,9 @@
 ## 综述：  
 \+ 该题参考题解，该题解释参考[LeetCode官方题解](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/xun-zhao-liang-ge-you-xu-shu-zu-de-zhong-wei-shu-b/)。  
 
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/4-1.png)
+
+
 ## Code
 ```
 class Solution {

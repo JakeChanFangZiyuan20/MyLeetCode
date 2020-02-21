@@ -27,6 +27,7 @@
 | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/35-Search%20Insert%20Position.md) | 搜索插入位置 | Easy |
 | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/39-Combination%20Sum.md) | 组合总和 | Medium |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/40-Combination%20Sum%20II.md) | 组合总和 II | Medium |
+| [41](https://leetcode-cn.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/41-First%20Missing%20Positive.md) | 缺失的第一个正数 | Hard |
 | [42](https://leetcode-cn.com/problems/trapping-rain-water/) | [Trapping Rain Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/42-Trapping%20Rain%20Water.md) | 接雨水 | Hard |
 | [45](https://leetcode-cn.com/problems/jump-game-ii/) | [Jump Game II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/45-Jump%20Game%20II.md) | 跳跃游戏 II | Hard |
 | [48](https://leetcode-cn.com/problems/rotate-image/) | [Rotate Image](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/48-Rotate%20Image.md) | 旋转图像 | Medium |
