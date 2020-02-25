@@ -10,6 +10,7 @@
 | [2](https://leetcode-cn.com/problems/add-two-numbers/) | [Add Two Numbers](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/2-Add%20Two%20Numbers.md) | 两数相加 | Medium |
 | [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/3-Longest%20Substring%20Without%20Repeating%20Characters.md) | 无重复字符的最长子串 | Medium |
 | [4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/4-Median%20of%20Two%20Sorted%20Arrays.md) | 寻找两个有序数组的中位数 | Hard |
+| [5](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/5-Longest%20Palindromic%20Substring.md) | 最长回文子串 | Medium |
 | [11](https://leetcode-cn.com/problems/container-with-most-water/) | [Container With Most Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/11-Container%20With%20Most%20Water.md) | 盛最多水的容器 | Medium |
 | [15](https://leetcode-cn.com/problems/3sum/) | [3Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/15-3Sum.md) | 三数之和 | Medium |
 | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/16-3Sum%20Closest.md) | 最接近的三数之和 | Medium |
