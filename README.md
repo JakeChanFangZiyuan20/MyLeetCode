@@ -24,7 +24,7 @@
 | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/19-Remove%20Nth%20Node%20From%20End%20of%20List.md) | 删除链表的倒数第N节点 | Medium |
 | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/20-Valid%20Parentheses.md) | 有效的括号 | Easy |
 | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/21-Merge%20Two%20Sorted%20Lists.md) | 合并两个有序链表 | Easy |
-| [22](https://leetcode-cn.com/problems/generate-parentheses/) | [Generate Parentheses](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/22-Generate Parentheses.md) | 括号生成 | Medium |
+| [22](https://leetcode-cn.com/problems/generate-parentheses/) | [Generate Parentheses](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/22-Generate%20Parentheses.md) | 括号生成 | Medium |
 | [23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/23-Merge%20k%20Sorted%20Lists.md) | 合并K个有序链表 | Hard |
 | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Swap Nodes in Pairs](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/24-Swap%20Nodes%20in%20Pairs.md) | 两两交换链表中的节点 | Medium |
 | [25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Reverse Nodes in k-Group](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/25-Reverse%20Nodes%20in%20k-Group.md) | K 个一组翻转链表 | Hard |
