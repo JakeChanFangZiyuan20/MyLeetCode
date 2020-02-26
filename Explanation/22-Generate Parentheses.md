@@ -6,7 +6,7 @@
 ## 综述：  
 \+ 本题采用宽度优先搜索。  
 \+ 下图是 n = 3 的图示：  
-![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/22.png)
+![avatar](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/img/22-1.png)
 \+ 可以看出层数等于该层合格的字符串的长度。合格的字符串只该字符串中，左括号数目小于等于 n，右括号数目小于等于左括号数目。  
 \+ 从第 i 层到第 i + 1 层。对于第 i 层的某一个字符串，其子字符串只可能有两种情况，一种是在尾部加入左括号，另一种是在尾部加入右括号。先考察是否可以加入左括号，判断条件为当前左括号数目小于 n 。再考察是否可以加入右括号，判断当前左括号数是否大于右括号，并还需要满足右括号数小于 n 。  
 
