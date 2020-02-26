@@ -16,6 +16,7 @@
 | [11](https://leetcode-cn.com/problems/container-with-most-water/) | [Container With Most Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/11-Container%20With%20Most%20Water.md) | 盛最多水的容器 | Medium |
 | [12](https://leetcode-cn.com/problems/integer-to-roman/) | [Integer to Roman](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/12-Integer%20to%20Roman.md) | 整数转罗马数字 | Medium |
 | [13](https://leetcode-cn.com/problems/roman-to-integer/) | [Roman to Integer](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/13-Roman%20to%20Integer.md) | 罗马数字转整数 | Easy |
+| [14](https://leetcode-cn.com/problems/longest-common-prefix/) | [Longest Common Prefix](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/14-Longest%20Common%20Prefix.md) | 最长公共前缀 | Easy |
 | [15](https://leetcode-cn.com/problems/3sum/) | [3Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/15-3Sum.md) | 三数之和 | Medium |
 | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/16-3Sum%20Closest.md) | 最接近的三数之和 | Medium |
 | [18](https://leetcode-cn.com/problems/4sum/) | [4Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/18-4Sum.md) | 四数之和 | Medium |
