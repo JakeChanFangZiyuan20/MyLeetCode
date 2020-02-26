@@ -12,6 +12,7 @@
 | [4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/4-Median%20of%20Two%20Sorted%20Arrays.md) | 寻找两个有序数组的中位数 | Hard |
 | [5](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/5-Longest%20Palindromic%20Substring.md) | 最长回文子串 | Medium |
 | [6](https://leetcode-cn.com/problems/zigzag-conversion/) | [ZigZag Conversion](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/6-ZigZag%20Conversion.md) | Z 字形变换 | Medium |
+| [8](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [String to Integer (atoi)](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/8-String%20to%20Integer%20(atoi).md) | 字符串转换整数 (atoi) | Medium |
 | [11](https://leetcode-cn.com/problems/container-with-most-water/) | [Container With Most Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/11-Container%20With%20Most%20Water.md) | 盛最多水的容器 | Medium |
 | [15](https://leetcode-cn.com/problems/3sum/) | [3Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/15-3Sum.md) | 三数之和 | Medium |
 | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/16-3Sum%20Closest.md) | 最接近的三数之和 | Medium |
