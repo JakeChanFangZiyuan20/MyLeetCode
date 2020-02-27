@@ -56,6 +56,7 @@
 | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/63-Unique%20Paths%20II.md) | 不同路径 II | Medium |
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/64-Minimum%20Path%20Sum.md) | 最小路径和 | Medium |
 | [66](https://leetcode-cn.com/problems/plus-one/) | [Plus One](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/66-Plus%20One.md) | 加一 | Easy |
+| [67](https://leetcode-cn.com/problems/add-binary/) | [Add Binary](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/67-Add%20Binary.md) | 二进制求和 | Easy |
 | [71](https://leetcode-cn.com/problems/simplify-path/) | [Simplify Path](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/71-Simplify%20Path.md) | 简化路径 | Medium |
 | [73](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/73-Set%20Matrix%20Zeroes.md) | 矩阵置零 | Medium |
 | [74](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/74-Search%20a%202D%20Matrix.md) | 搜索二维矩阵 | Medium |
