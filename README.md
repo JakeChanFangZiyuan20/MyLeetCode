@@ -40,6 +40,7 @@
 | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/40-Combination%20Sum%20II.md) | 组合总和 II | Medium |
 | [41](https://leetcode-cn.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/41-First%20Missing%20Positive.md) | 缺失的第一个正数 | Hard |
 | [42](https://leetcode-cn.com/problems/trapping-rain-water/) | [Trapping Rain Water](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/42-Trapping%20Rain%20Water.md) | 接雨水 | Hard |
+| [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/43-Multiply%20Strings.md) | 字符串相乘 | Medium |
 | [45](https://leetcode-cn.com/problems/jump-game-ii/) | [Jump Game II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/45-Jump%20Game%20II.md) | 跳跃游戏 II | Hard |
 | [48](https://leetcode-cn.com/problems/rotate-image/) | [Rotate Image](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/48-Rotate%20Image.md) | 旋转图像 | Medium |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/53-Maximum%20Subarray.md) | 最大子序和 | Easy |
