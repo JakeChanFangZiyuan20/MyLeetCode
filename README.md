@@ -43,6 +43,7 @@
 | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/43-Multiply%20Strings.md) | 字符串相乘 | Medium |
 | [45](https://leetcode-cn.com/problems/jump-game-ii/) | [Jump Game II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/45-Jump%20Game%20II.md) | 跳跃游戏 II | Hard |
 | [48](https://leetcode-cn.com/problems/rotate-image/) | [Rotate Image](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/48-Rotate%20Image.md) | 旋转图像 | Medium |
+| [49](https://leetcode-cn.com/problems/group-anagrams/) | [Group Anagrams](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/49-Group%20Anagrams.md) | 字母异位词分组 | Medium |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/53-Maximum%20Subarray.md) | 最大子序和 | Easy |
 | [54](https://leetcode-cn.com/problems/spiral-matrix/) | [Spiral Matrix](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/54-Spiral%20Matrix.md) | 螺旋矩阵 | Medium |
 | [55](https://leetcode-cn.com/problems/jump-game/) | [Jump Game](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/55-Jump%20Game.md) | 跳跃游戏 | Medium |
