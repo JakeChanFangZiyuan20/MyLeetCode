@@ -72,6 +72,7 @@
 | [86](https://leetcode-cn.com/problems/partition-list/) | [Partition List](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/86-Partition%20List.md) | 分割链表 | Medium |
 | [88](https://leetcode-cn.com/problems/merge-sorted-array/) | [Merge Sorted Array](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/88-Merge%20Sorted%20Array.md) | 合并两个有序数组 | Easy |
 | [90](https://leetcode-cn.com/problems/subsets-ii) | [Subsets II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/90-Subsets%20II.md) | 子集 II | Medium |
+| [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/91-Decode%20Ways.md) | 解码方法 | Medium |
 | [92](https://leetcode-cn.com/problems/reverse-linked-list/) | [Reverse Linked List II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/92-Reverse%20Linked%20List.md) | 反转链表II | Medium |
 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/94-Binary%20Tree%20Inorder%20Traversal.md) | 二叉树的中序遍历 | Medium |
 | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Binary Tree Zigzag Level Order Traversal](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/103-Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | 二叉树的锯齿形层次遍历 | Medium |
