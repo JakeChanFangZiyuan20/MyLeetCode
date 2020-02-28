@@ -118,6 +118,7 @@
 | [219](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/219-Contains%20Duplicate%20II.md) | 存在重复元素 II | **Easy** |
 | [224](https://leetcode-cn.com/problems/basic-calculator/) | [Basic Calculator](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/224-Basic%20Calculator.md) | 基本计算器 | **Hard** |
 | [225](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/225-Implement%20Stack%20using%20Queues.md) | 用队列实现栈 | **Easy** |
+| [227](https://leetcode-cn.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/227-Basic%20Calculator%20II.md) | 基本计算器 II | **Medium** |
 | [228](https://leetcode-cn.com/problems/summary-ranges/) | [Summary Ranges](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/228-Summary%20Ranges.md) | 汇总区间 | **Medium** |
 | [229](https://leetcode-cn.com/problems/majority-element-ii/) | [Majority Element II](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/229-Majority%20Element%20II.md) | 求众数 II | **Medium** |
 | [232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [mplement Queue using Stacks](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/232-Implement%20Queue%20using%20Stacks.md) | 用栈实现队列 | **Easy** |
