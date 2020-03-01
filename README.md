@@ -156,6 +156,7 @@
 | [468](https://leetcode-cn.com/problems/validate-ip-address/) | [Validate IP Address](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/468-Validate%20IP%20Address.md) | 验证IP地址 | **Meidum** |
 | [495](https://leetcode-cn.com/problems/teemo-attacking/) | [Teemo Attacking](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/495-Teemo%20Attacking.md) | 提莫攻击 | **Medium** |
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [Next Greater Element I](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/496-Next%20Greater%20Element%20I.md) | 下一个更大元素 I | **Easy** |
+| [520](https://leetcode-cn.com/problems/detect-capital/) | [Detect Capital](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/520-Detect%20Capital.md) | 检测大写字母 | **Easy** |
 | [532](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [K-diff Pairs in an Array](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/532-K-diff%20Pairs%20in%20an%20Array.md) | 数组中的K-diff数对 | **Easy** |
 | [621](https://leetcode-cn.com/problems/task-scheduler/) | [Task Scheduler](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/621-Task%20Scheduler.md) | 任务调度器 | **Medium** |
 | [641](https://leetcode-cn.com/problems/design-circular-deque/) | [Design Circular Deque](https://github.com/JakeChanFangZiyuan20/MyLeetCode/blob/master/Explanation/641-Design%20Circular%20Deque.md) | 设计循环双端队列 | **Medium** |
